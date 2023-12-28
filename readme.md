@@ -4,7 +4,7 @@
 Financial Dashboard
 
 ## About The Project
-![Preview](https://github.com/iamstefanstoyanov/Financial-dashboard/tree/main/public/preview.jpg)
+![Preview](https://github.com/iamstefanstoyanov/Financial-dashboard/blob/33acf3e6a6208d3377f7dd4c56e381b816616b08/public/preview.jpg)
 
 This is latest Next.js App course, from Next JS official page.
 
@@ -40,13 +40,13 @@ click on local link path or paste it in your browser.
 
 ## Usage
 
-Login with user: user@nextmail.com
-Password: 123456
+- Login with user: user@nextmail.com
+- Password: 123456
 
-View "Dashboard" page.
-View "Invoices" page.
-Create,edit,delete invoices.
-Try "Sign-out".
+- View "Dashboard" page.
+- View "Invoices" page.
+- Create,edit,delete invoices.
+- Try "Sign-out".
 
 
 ## Acknowledgements
