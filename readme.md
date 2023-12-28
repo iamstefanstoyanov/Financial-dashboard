@@ -10,10 +10,10 @@ This is latest Next.js App course, from Next JS official page.
 
 A simplified version of the financial dashboard that has:
 
-A public home page.
-A login page.
-Dashboard pages that are protected by authentication.
-The ability for users to add, edit, and delete invoices.
+- Public home page.
+- Login page.
+- Dashboard pages that are protected by authentication.
+- The ability for users to add, edit, and delete invoices.
 
 ## Build With
 
@@ -40,8 +40,7 @@ click on local link path or paste it in your browser.
 
 ## Usage
 
-- Login with user: user@nextmail.com
-- Password: 123456
+- Login with user: user@nextmail.com, password: 123456
 
 - View "Dashboard" page.
 - View "Invoices" page.
