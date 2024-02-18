@@ -41,11 +41,9 @@ click on local link path or paste it in your browser.
 ## Usage
 
 - Login with user: user@nextmail.com, password: 123456
-
 - View "Dashboard" page.
 - View "Invoices" page.
 - Create,edit,delete invoices.
-- Try "Sign-out".
 
 
 ## Acknowledgements
@@ -54,7 +52,7 @@ click on local link path or paste it in your browser.
 
 ### Additional info
 
-Project deplpoyed on Vercel, demo available here.
+Project deployed on Vercel, demo available here.
 
  - [Financial Dashboard](https://financial-dashboard-psi.vercel.app/)
 
